@@ -62,7 +62,7 @@ This GUI allowed residents to:
 
 - No blinds or HVAC integration in this demo unit
 - The following table outlines a simplified KNX group address structure to illustrate the project’s functional design. These addresses are **representative only** and do not reflect the original confidential ETS configuration.
-[group_address_mock.csv](group_address_mock.csv)
+[/mock_data/group_address_mock.csv](group_address_mock.csv)
 ---
 
 ## Lessons Learned
