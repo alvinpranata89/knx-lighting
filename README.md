@@ -24,10 +24,11 @@ While the original ETS files and group address list are no longer available, thi
 ## 🖥️ User Interface Screenshots
 
 <img src="images/gui_main_panel.png" width="400">
-*Main control panel with zone-based switching and dimming functions.*
+Main control panel GUI with zone-based switching and dimming functions.
+
 
 <img src="images/gui_room_controls.png" width="400">
-*Example room control interface with dimming levels.*
+Room control interface with dimming levels.
 
 ---
 
