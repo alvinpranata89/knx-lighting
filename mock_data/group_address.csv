@@ -1,0 +1,12 @@
+Main Group,Middle Group,Sub Group,Group Address,Function,Description,Data Type
+1,1,10,1/1/10,Dimming Control,Living Room Dimming Level,1-byte (0–100%)
+1,1,11,1/1/11,Dimming Control,Dining Room Dimming Level,1-byte (0–100%)
+1,1,12,1/1/12,Dimming Control,Dry Kitchen Dimming Level,1-byte (0–100%)
+1,1,13,1/1/13,Dimming Control,Wet Kitchen Dimming Level,1-byte (0–100%)
+
+1,0,10,1/0/10,Switching Control,Living Room Light ON/OFF,1-bit
+1,0,11,1/0/11,Switching Control,Dining Room Light ON/OFF,1-bit
+1,0,12,1/0/12,Switching Control,Dry Kitchen Light ON/OFF,1-bit
+
+2,0,1,2/0/1,Scene Trigger,Scene 75% Dim,1-byte
+2,0,2,2/0/2,Scene Trigger,Scene All OFF,1-byte
