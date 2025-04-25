@@ -18,7 +18,7 @@ While the original ETS files and group address list are no longer available, thi
 - **Devices used:**
   - Switching actuator (JUNG 2304.16REGHM)
   - Dimming actuator (JUNG 3904REGHE)
-  - Push-button input modules (JUNG 4194TSM)
+  - Push-button input modules (JUNG 4194TSM) for traditional control (wall mounted)
 ---
 
 ## 🖥️ User Interface Screenshots
@@ -29,6 +29,12 @@ Main control panel GUI with zone-based switching and dimming functions.
 
 <img src="images/gui_room_controls.png" width="400">
 Room control interface with dimming levels.
+
+This GUI allowed residents to:
+- Toggle lighting in multiple rooms
+- Dim individual zones (Living, Dining, Kitchen)
+- Use a visual slider for brightness level
+- Trigger "All Dim" presets (90%, 75%, etc.)
 
 ---
 
