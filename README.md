@@ -61,7 +61,7 @@ This GUI allowed residents to:
 ## Project Limitations
 
 - No blinds or HVAC integration in this demo unit
-- The group addresses in the mock_data folder are **representative only** and do not reflect the original confidential ETS configuration.
+- The group addresses are **representative only** and do not reflect the original confidential ETS configuration.
 ---
 
 ## Lessons Learned
