@@ -61,8 +61,8 @@ This GUI allowed residents to:
 ## Project Limitations
 
 - No blinds or HVAC integration in this demo unit
-- Group address export not available confidentiality of the project
-
+- The following table outlines a simplified KNX group address structure to illustrate the project’s functional design. These addresses are **representative only** and do not reflect the original confidential ETS configuration.
+[group_address_mock.csv](group_address_mock.csv)
 ---
 
 ## Lessons Learned
