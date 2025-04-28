@@ -9,7 +9,7 @@ While the original ETS files and group address list are no longer available, thi
 
 ---
 
-## 🔧 System Overview
+## System Overview
 
 - **Project type:** Lighting automation for demo apartment
 - **Year:** 2014
@@ -21,7 +21,7 @@ While the original ETS files and group address list are no longer available, thi
   - Push-button input modules (JUNG 4194TSM) for traditional control (wall mounted)
 ---
 
-## 🖥️ User Interface Screenshots
+## User Interface Screenshots
 
 <img src="images/gui_main_panel.png" width="400">
 Main control panel GUI with zone-based switching and dimming functions.
