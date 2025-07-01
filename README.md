@@ -1,6 +1,6 @@
 # KNX-Based Lighting Control System (Mock-Up Apartment)
 
-This repository documents a KNX project I implemented back in 2014 for a mock-up apartment unit. The system was designed to demonstrate **lighting control functionality** using **KNX switching and dimming actuators**, with a user-friendly GUI displayed on an iPad.
+This repository documents a KNX project I implemented back in 2014 for a mock-up apartment unit. The system was designed to demonstrate **lighting control functionality** using **KNX switching and dimming actuators**, with a user-friendly GUI displayed on an iPad along with the wall mounted KNX push button (JUNG F40 series).
 
 While the original ETS files and group address list are no longer available, this repo includes:
 - GUI screenshots of the working system
@@ -31,6 +31,9 @@ Room control interface with dimming levels.
 
 <img src="images/gui_room_controls.png" width="400">
 
+F40 series wall button Installation.
+
+<img src="images/arzuriaButton.png" width="400">
 
 KNX Actuator Installation.
 
