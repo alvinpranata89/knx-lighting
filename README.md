@@ -23,6 +23,7 @@ While the original ETS files and group address list are no longer available, thi
 
 ## User Interface Screenshots
 Main control panel GUI with zone-based switching and dimming functions.
+
 <img src="images/gui_main_panel.png" width="400">
 
 ---
