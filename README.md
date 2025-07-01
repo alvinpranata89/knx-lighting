@@ -30,6 +30,10 @@ Main control panel GUI with zone-based switching and dimming functions.
 <img src="images/gui_room_controls.png" width="400">
 Room control interface with dimming levels.
 
+<img src="images/ArzuriaPanel.png" width="400">
+<img src="images/ArzuriaPanel2.png" width="400">
+KNX Actuator Installation.
+
 This GUI allowed residents to:
 - Toggle lighting in multiple rooms
 - Dim individual zones (Living, Dining, Kitchen)
